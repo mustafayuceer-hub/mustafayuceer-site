@@ -77,11 +77,11 @@ function About() {
       </ul>
 
       <Image
-        src="/images/mustafa-yuceer-closeup.png"
+        src="/images/mustafa-yuceer-portrait.png"
         alt={t("heading")}
-        width={1070}
-        height={880}
-        className="mt-16 h-64 w-full rounded-2xl object-cover shadow-md ring-1 ring-black/5 sm:h-96 dark:ring-white/10"
+        width={1112}
+        height={1186}
+        className="mt-16 h-64 w-full rounded-2xl object-cover object-top shadow-md ring-1 ring-black/5 sm:h-96 dark:ring-white/10"
       />
 
       <Link
