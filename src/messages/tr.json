@@ -1,0 +1,129 @@
+{
+  "site": {
+    "name": "Mustafa Yüceer",
+    "title": "Doç. Dr. Mustafa Yüceer",
+    "tagline": "Hadis İlmi | Selçuk Üniversitesi"
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkında",
+    "publications": "Yayınlar",
+    "activities": "Faaliyetler",
+    "blog": "Blog",
+    "ilminZekati": "İlmin Zekâtı",
+    "contact": "İletişim"
+  },
+  "home": {
+    "heroTitle": "Doç. Dr. Mustafa Yüceer",
+    "heroSubtitle": "Hadis Anabilim Dalı — Selçuk Üniversitesi İlahiyat Fakültesi",
+    "heroCta": "Özgeçmişi İncele",
+    "heroCtaSecondary": "Yayınlar",
+    "introHeading": "Hoş Geldiniz",
+    "introParagraph1": "Bu platform, Doç. Dr. Mustafa Yüceer'in hadis ilmi odaklı akademik araştırmalarını, bilimsel yayınlarını ve güncel fikri meselelere dair değerlendirmelerini bir araya getiren dijital bir derlem niteliğindedir.",
+    "introParagraph2": "Akademik serüveninde klasik İslami ilimler mirası ile modern disiplinler arası yöntemleri harmanlayan Doç. Dr. Yüceer; çalışmalarını özellikle şu dört temel odakta derinleştirmektedir:",
+    "focusAreas": [
+      {
+        "title": "Hadis İlmi",
+        "text": "Hadis usulü, rivayet tarihi ve Peygamber tasavvuruna dair temel teorik tartışmalar."
+      },
+      {
+        "title": "Osmanlı Manzum Hadis Edebiyatı",
+        "text": "Türk-İslam edebiyatı ile hadis ilmînin kesişim noktasında yer alan manzum Kırk Hadisler, Yüz Hadisler ve Osmanlı şairlerinin hadis alımlamaları."
+      },
+      {
+        "title": "İsnad ve Metin Tenkidi",
+        "text": "Hadislerin sıhhatini ve tarihsel tutarlılığını belirlemede kullanılan klasik metodolojilerin analizi ve güncel eleştiri yaklaşımları."
+      },
+      {
+        "title": "Dijital Hadis Çalışmaları",
+        "text": "Geleneksel metinlerin modern veri bilimi, hesaplamalı analiz yöntemleri, yapay zekâ ve dijital ağ arayüzleriyle incelenmesine yönelik yenilikçi projeler."
+      }
+    ],
+    "introParagraph3": "Bu site aracılığıyla Doç. Dr. Mustafa Yüceer'in akademik özgeçmişine ve projelerine göz atabilir; kitap, makale ve tebliğlerinden oluşan bilimsel yayın listesine ulaşabilir; ayrıca ilmi meseleleri ve hayatı yorumladığı aktüel yazılarını ve değerlendirmelerini takip edebilirsiniz."
+  },
+  "about": {
+    "heading": "Hakkında",
+    "bio1": "Mustafa Yüceer, 08/07/1984 tarihinde Ankara/Çamlıdere'de dünyaya geldi. Hafızlık ve Arapça eğitiminin ardından 2003 yılında Kızılcahamam İmam Hatip Lisesi'nden mezun oldu. Sırasıyla Trakya Üniversitesi Edebiyat Fakültesi Türk Dili ve Edebiyatı Bölümü (2008) ile Ankara Üniversitesi İlahiyat Fakültesi'ni (2012) bitirdi.",
+    "bio2": "Necmettin Erbakan Üniversitesi, Sosyal Bilimler Enstitüsü, Hadis Ana Bilim Dalı'nda \"Ömer Nasuhi Bilmen'in Hukûk-i İslâmiyye ve Istılâhât-ı Fıkhiyye Kâmusu Adlı Eserinde Geçen Hadislerin Tahric ve Değerlendirilmesi\" başlıklı teziyle 2015 yılında yüksek lisansını tamamladı. 2020 yılında \"Hadis İlmi Açısından Osmanlı Manzum Hadis Edebiyatında Yer Alan Rivayetler\" konulu doktora tezini aynı anabilim dalında Prof. Dr. Muhittin Uysal danışmanlığında başarıyla savundu.",
+    "bio3": "2004 yılında Diyanet İşleri Başkanlığı bünyesinde din görevlisi olarak çalışmaya başladı. 2012 yılında Konya Selçuklu Dini Yüksek İhtisas Merkezi'ni kazandı ve 2015 yılında mezun olarak Ankara/Güdül ilçesinde vaiz ve müftülük görevlerinde bulundu.",
+    "bio4": "2017 yılında Selçuk Üniversitesi İlahiyat Fakültesi Temel İslam Bilimleri Bölümü Hadis Anabilim Dalı'nda araştırma görevlisi olarak çalışmaya başlayan Yüceer, ardından İstanbul Medeniyet Üniversitesi İslami İlimler Fakültesi Hadis Anabilim Dalı'nda Dr. Öğretim Üyesi olarak görev yaptı. 09.09.2025 tarihinden itibaren Selçuk Üniversitesi İlahiyat Fakültesi Hadis Anabilim Dalı'nda Doçent Doktor unvanıyla görevine devam etmektedir.",
+    "timelineHeading": "Akademik Süreç",
+    "timeline": [
+      { "year": "2003", "text": "Kızılcahamam İmam Hatip Lisesi mezunu" },
+      { "year": "2008", "text": "Trakya Üniversitesi, Türk Dili ve Edebiyatı (Lisans)" },
+      { "year": "2012", "text": "Ankara Üniversitesi İlahiyat Fakültesi (Lisans)" },
+      { "year": "2015", "text": "Necmettin Erbakan Üniversitesi, Hadis (Yüksek Lisans)" },
+      { "year": "2017", "text": "Selçuk Üniversitesi İlahiyat Fakültesi, Araştırma Görevlisi" },
+      { "year": "2020", "text": "Necmettin Erbakan Üniversitesi, Hadis (Doktora)" },
+      { "year": "2022", "text": "İstanbul Medeniyet Üniversitesi, Dr. Öğr. Üyesi, Hadis Anabilim Dalı" },
+      { "year": "Halen", "text": "Selçuk Üniversitesi İlahiyat Fakültesi, Doç. Dr., Hadis Anabilim Dalı (09.09.2025'ten itibaren)" }
+    ],
+    "worksHeading": "Öne Çıkan Eserler",
+    "contactCta": "İletişime Geç"
+  },
+  "publications": {
+    "heading": "Yayınlar",
+    "intro": "Uluslararası ve ulusal dergilerde yayımlanmış makaleler, kitaplar, kitap bölümleri ve bildiriler.",
+    "viewPdf": "PDF Görüntüle",
+    "categories": {
+      "articles": "Makaleler",
+      "proceedings": "Bildiriler",
+      "books": "Kitaplar",
+      "bookChapters": "Kitap Bölümleri",
+      "other": "Diğer Yayınlar ve Kitap Kritikleri",
+      "editorships": "Editörlükler",
+      "projects": "Projeler",
+      "courses": "Dersler",
+      "peerReviews": "Hakemlikler"
+    },
+    "editorshipYear": "Yıl",
+    "editorshipRole": "Editörlük Görevi",
+    "editorshipTitle": "Yayın Adı",
+    "editorshipScope": "Kapsam",
+    "undergraduate": "Lisans",
+    "graduate": "Yüksek Lisans",
+    "term": "Dönem",
+    "courseName": "Ders Adı",
+    "language": "Dili",
+    "hours": "Saat"
+  },
+  "activities": {
+    "heading": "Faaliyetler",
+    "intro": "Akademik ve kamuoyuna yönelik faaliyetler: konferanslar, seminerler, çalıştaylar, TV programları ve röportajlar.",
+    "placeholder": "İçerik yakında eklenecektir.",
+    "viewPdf": "PDF Görüntüle",
+    "categories": {
+      "conferences": "Konferanslar ve Paneller",
+      "seminars": "Seminerler",
+      "workshops": "Çalıştaylar",
+      "tvPrograms": "TV Programları",
+      "interviews": "Röportajlar"
+    },
+    "date": "Tarih",
+    "episode": "Bölüm",
+    "link": "Bağlantı"
+  },
+  "blog": {
+    "heading": "Blog",
+    "intro": "Hadis ilmi, dijital hümaniter çalışmalar ve akademik gündeme dair yazılar.",
+    "empty": "Henüz yayımlanmış bir yazı bulunmuyor.",
+    "readMore": "Devamını Oku",
+    "back": "Bloga Dön"
+  },
+  "ilminZekati": {
+    "heading": "İlmin Zekâtı",
+    "intro": "İlmin Zekâtı, öğrenilen bilginin paylaşıldıkça değer kazandığı inancıyla hazırlanmış bir bölümdür. Burada başta hadis araştırmacıları olmak üzere ilahiyat alanında çalışan araştırmacılara ve öğrencilere yol gösterebilecek tavsiye kitaplar, makaleler ve kısa bilgi notları bir araya getirilecektir.",
+    "placeholder": "İçerik yakında eklenecektir.",
+    "viewMore": "İncele"
+  },
+  "contact": {
+    "heading": "İletişim",
+    "intro": "Akademik iş birlikleri, danışma ve sorularınız için benimle iletişime geçebilirsiniz.",
+    "email": "E-posta",
+    "institution": "Kurum",
+    "institutionValue": "Selçuk Üniversitesi, İlahiyat Fakültesi, Hadis Anabilim Dalı"
+  },
+  "footer": {
+    "rights": "Tüm hakları saklıdır."
+  }
+}

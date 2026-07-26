@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "title": "DİA MUHADDİS BİYOGRAFİLERİ",
+      "author": "Derleyen: Mustafa Yüceer",
+      "type": "Kitap",
+      "url": "/ilmin-zekati/dia-muhaddis-biyografileri.pdf"
+    },
+    {
+      "title": "DİA HADİS USÛLÜ",
+      "author": "Derleyen: Mustafa Yüceer",
+      "type": "Kitap",
+      "url": "/ilmin-zekati/dia-hadis-usulu.pdf"
+    },
+    {
+      "title": "Hz. Peygamber'in Tasarrufları'na Dair Görüşler Tablosu",
+      "author": "Derleyen: Mustafa Yüceer",
+      "type": "Tablo",
+      "url": "/ilmin-zekati/hz-peygamberin-tasarruflari-tablosu.pdf"
+    }
+  ]
+}

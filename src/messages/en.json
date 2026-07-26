@@ -1,0 +1,129 @@
+{
+  "site": {
+    "name": "Mustafa Yüceer",
+    "title": "Assoc. Prof. Dr. Mustafa Yüceer",
+    "tagline": "Hadith Studies | Selçuk University"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "publications": "Publications",
+    "activities": "Activities",
+    "blog": "Blog",
+    "ilminZekati": "The Zakat of Knowledge",
+    "contact": "Contact"
+  },
+  "home": {
+    "heroTitle": "Assoc. Prof. Dr. Mustafa Yüceer",
+    "heroSubtitle": "Department of Hadith — Selçuk University, Faculty of Theology",
+    "heroCta": "View CV",
+    "heroCtaSecondary": "Publications",
+    "introHeading": "Welcome",
+    "introParagraph1": "This platform is a digital compendium bringing together the academic research, scholarly publications, and reflections on current intellectual issues of Assoc. Prof. Dr. Mustafa Yüceer, with a focus on Hadith studies.",
+    "introParagraph2": "Throughout his academic career, Assoc. Prof. Dr. Yüceer has combined the classical heritage of the Islamic sciences with modern interdisciplinary methods, deepening his work in particular across four core areas:",
+    "focusAreas": [
+      {
+        "title": "Hadith Studies",
+        "text": "Fundamental theoretical debates on hadith methodology (usul), the history of transmission, and the conception of the Prophet."
+      },
+      {
+        "title": "Ottoman Rhymed Hadith Literature",
+        "text": "Rhymed Forty Hadith and Hundred Hadith collections and the reception of hadith by Ottoman poets, situated at the intersection of Turkish-Islamic literature and Hadith studies."
+      },
+      {
+        "title": "Isnad and Text Criticism",
+        "text": "Analysis of the classical methodologies used to determine the authenticity and historical consistency of hadiths, together with contemporary critical approaches."
+      },
+      {
+        "title": "Digital Hadith Studies",
+        "text": "Innovative projects examining traditional texts through modern data science, computational analysis methods, artificial intelligence, and digital network interfaces."
+      }
+    ],
+    "introParagraph3": "Through this site, you can explore Assoc. Prof. Dr. Mustafa Yüceer's academic CV and projects; access his scholarly publication list of books, articles, and conference papers; and follow his current writings and reflections on scholarly issues and life."
+  },
+  "about": {
+    "heading": "About",
+    "bio1": "Mustafa Yüceer was born on 08/07/1984 in Ankara/Çamlıdere. After completing his Qur'an memorization (Hafiz) and Arabic education, he graduated from Kızılcahamam Imam Hatip High School in 2003. He later graduated from the Department of Turkish Language and Literature at Trakya University, Faculty of Literature (2008), and the Faculty of Theology at Ankara University (2012).",
+    "bio2": "In 2015, he completed his master's degree in the Department of Hadith at Necmettin Erbakan University's Institute of Social Sciences with a thesis titled \"The Extraction and Evaluation of Hadiths Mentioned in Ömer Nasuhi Bilmen's Work Hukûk-i İslamiyye ve Istılâhât-ı Fıkhiyye Kâmusu.\" In 2020, he successfully defended his doctoral dissertation, titled \"The Narrations in Ottoman Rhymed Hadith Literature from the Perspective of Hadith Studies,\" under the supervision of Prof. Dr. Muhittin Uysal in the same department.",
+    "bio3": "Yüceer began working as a religious officer within the Directorate of Religious Affairs in 2004. In 2012, he was admitted to the Konya Selçuklu Advanced Religious Specialization Center, from which he graduated in 2015, and then served as a preacher and mufti in the Güdül district of Ankara.",
+    "bio4": "In 2017, Yüceer began working as a research assistant in the Department of Hadith at the Faculty of Theology, Selçuk University, and later served as an Assistant Professor in the Department of Hadith at Istanbul Medeniyet University, Faculty of Islamic Sciences. Since 09/09/2025, he has continued his academic career as an Associate Professor in the Department of Hadith at Selçuk University, Faculty of Theology.",
+    "timelineHeading": "Academic Timeline",
+    "timeline": [
+      { "year": "2003", "text": "Graduated from Kızılcahamam Imam Hatip High School" },
+      { "year": "2008", "text": "Trakya University, Turkish Language and Literature (BA)" },
+      { "year": "2012", "text": "Ankara University, Faculty of Theology (BA)" },
+      { "year": "2015", "text": "Necmettin Erbakan University, Hadith (MA)" },
+      { "year": "2017", "text": "Research Assistant, Selçuk University, Faculty of Theology" },
+      { "year": "2020", "text": "Necmettin Erbakan University, Hadith (PhD)" },
+      { "year": "2022", "text": "Assistant Professor, Istanbul Medeniyet University, Department of Hadith" },
+      { "year": "Present", "text": "Associate Professor, Selçuk University, Department of Hadith (since 09/09/2025)" }
+    ],
+    "worksHeading": "Selected Works",
+    "contactCta": "Get in Touch"
+  },
+  "publications": {
+    "heading": "Publications",
+    "intro": "Articles, books, book chapters and conference papers published in international and national journals.",
+    "viewPdf": "View PDF",
+    "categories": {
+      "articles": "Articles",
+      "proceedings": "Conference Papers",
+      "books": "Books",
+      "bookChapters": "Book Chapters",
+      "other": "Other Publications and Book Reviews",
+      "editorships": "Editorships",
+      "projects": "Projects",
+      "courses": "Courses",
+      "peerReviews": "Peer Reviews"
+    },
+    "editorshipYear": "Year",
+    "editorshipRole": "Editorial Role",
+    "editorshipTitle": "Publication",
+    "editorshipScope": "Scope",
+    "undergraduate": "Undergraduate",
+    "graduate": "Graduate",
+    "term": "Term",
+    "courseName": "Course Name",
+    "language": "Language",
+    "hours": "Hours"
+  },
+  "activities": {
+    "heading": "Activities",
+    "intro": "Academic and public-facing activities: conferences, seminars, workshops, TV programs, and interviews.",
+    "placeholder": "Content coming soon.",
+    "viewPdf": "View PDF",
+    "categories": {
+      "conferences": "Conferences and Panels",
+      "seminars": "Seminars",
+      "workshops": "Workshops",
+      "tvPrograms": "TV Programs",
+      "interviews": "Interviews"
+    },
+    "date": "Date",
+    "episode": "Episode",
+    "link": "Link"
+  },
+  "blog": {
+    "heading": "Blog",
+    "intro": "Writings on Hadith studies, digital humanities, and the academic agenda.",
+    "empty": "No posts published yet.",
+    "readMore": "Read More",
+    "back": "Back to Blog"
+  },
+  "ilminZekati": {
+    "heading": "The Zakat of Knowledge",
+    "intro": "\"The Zakat of Knowledge\" is a section built on the belief that knowledge grows in value as it is shared. Here, recommended books, articles, and short notes will be gathered to guide researchers and students in Hadith studies and Islamic sciences more broadly.",
+    "placeholder": "Content coming soon.",
+    "viewMore": "View"
+  },
+  "contact": {
+    "heading": "Contact",
+    "intro": "Feel free to reach out for academic collaboration, consultation, or any questions.",
+    "email": "Email",
+    "institution": "Institution",
+    "institutionValue": "Selçuk University, Faculty of Theology, Department of Hadith"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}

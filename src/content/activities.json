@@ -1,0 +1,154 @@
+{
+  "conferences": [
+    {
+      "title": "\"Konformizme Karşı Bir Kalem: Bülent Akyürek'in Fikri Mirası\" Konferansı",
+      "date": "2026-05-07",
+      "location": "Selçuk Üniversitesi İlahiyat Fakültesi Konferans Salonu",
+      "speaker": "Doç. Dr. Mustafa Yüceer",
+      "description": "Selçuk Üniversitesi İlahiyat Fakültesi, modern çağın dayatmalarına karşı eleştirel duruşuyla tanınan yazar ve düşünür Bülent Akyürek'in entelektüel dünyasını ele alan bir konferansa ev sahipliği yaptı. 7 Mayıs 2026 Perşembe günü Fakülte Konferans Salonu'nda akademik ve idari personel ile öğrencilerin yoğun katılımıyla düzenlenen programda konuşmacı olarak yer alan Doç. Dr. Mustafa Yüceer, Akyürek'in \"Geriye Doğru İleri\" ve \"Satılık Adam\" adlı eserlerini merkeze alarak günümüz dünyasındaki yüzeyselleşme, tüketim kültürü ve konformizm tehlikesine karşı nasıl bir fikri mücadele verilmesi gerektiği üzerine ufuk açıcı bir sunum gerçekleştirdi.",
+      "poster": "/activities/konformizme-karsi-bir-kalem-afis.webp",
+      "sourceUrl": "https://selcuk.edu.tr/birim/icerik/5342/konformizme-karsi-bir-kalem-bulent-akyurekin-fikri-mirasi-konferansi-gerceklestirildi-76171"
+    },
+    {
+      "title": "\"Dijitalleşme ve Hadisin Bugünü\" Paneli (Hadis ve Dijital-4)",
+      "date": "2026-04-29",
+      "time": "14:00",
+      "location": "Ankara Hacı Bayram Veli Üniversitesi İlahiyat Fakültesi Konferans Salonu",
+      "speaker": "Doç. Dr. Mustafa Yüceer",
+      "content": [
+        { "type": "p", "text": "Hadis Tarihi Derneği ile Ankara Hacı Bayram Veli Üniversitesi (AHBVÜ) İlahiyat Fakültesi iş birliğiyle 29 Nisan 2026'da \"Hadis ve Dijital - 4: Dijitalleşme ve Hadisin Bugünü\" paneli düzenlendi. Prof. Dr. Mehmet Emin Özafşar'ın moderatörlüğünde gerçekleşen etkinlikte, klasik hadis mirasının hesaplamalı veri bilimi ve yapay zekâ teknolojileriyle nasıl ele alınabileceği tartışıldı." },
+        { "type": "p", "text": "Panelde yer alan konuşmacılar ve öne çıkan başlıklar şu şekilde gerçekleşti:" },
+        {
+          "type": "list",
+          "items": [
+            "Doç. Dr. Mustafa Yüceer (Selçuk Üniversitesi): \"Geleneksel Hadis Usulünün Dijital İmkanlarla Yeniden Düşünülmesi: Bulanık Mantık ve Yapay Sinir Ağları Temelli Bir Yaklaşım\" başlıklı sunumunda, geleneksel hadis usulü ve tenkit metodolojisinin modern veri bilimi, bulanık mantık ve yapay sinir ağlarıyla entegrasyonunu ele aldı.",
+            "Doç. Dr. Rahile Kızılkaya Yılmaz (Marmara Üniversitesi): \"Yükseköğretimde Hadis Eğitimi ve Dijitalleşme: Mevcut Durum ve Yeni İmkanlar\" tebliğinde, dijital araçların üniversitelerdeki hadis öğretimine entegrasyonunu ve pedagojik fırsatları değerlendirdi.",
+            "Doç. Dr. Recep Emin Gül (Yalova Üniversitesi): \"Dijital Çağda Hadis: Toplum, Algı ve Etkileşim\" konuşmasında, dijital mecralarda ve sosyal medyada hadis algısının şekillenişini ve yeni dönemsel meydan okumaları analiz etti."
+          ]
+        },
+        { "type": "p", "text": "Dijital beşeri bilimler vizyonunu öne çıkaran panel, soru-cevap ve değerlendirme bölümüyle sona erdi." }
+      ],
+      "poster": "/activities/hadis-dijital-4-panel-afis.jpeg",
+      "photos": [
+        "/activities/hadis-dijital-4-panel-foto1.jpeg",
+        "/activities/hadis-dijital-4-panel-foto2.jpeg",
+        "/activities/hadis-dijital-4-panel-foto3.jpeg"
+      ]
+    },
+    {
+      "title": "Hz. Peygamber ve Güven Toplumu",
+      "venue": "Ankara/Nallıhan",
+      "date": "2017-04-19",
+      "scope": "Ulusal"
+    },
+    {
+      "title": "Hz. Peygamber ve Gençlik Paneli",
+      "venue": "Selçuk Üniversitesi Süleyman Demirel Kültür Merkezi",
+      "date": "2018-11-20",
+      "scope": "Ulusal",
+      "description": "Gençliğin Anlam Arayışında X, Y ve Z Kuşaklarının Rolü"
+    }
+  ],
+  "seminars": [
+    {
+      "title": "\"Akademik Hadisçiliğin Dijital Dönüşümü ve Bulanık Mantık\" Semineri",
+      "date": "2026-07-10",
+      "time": "09:15-12:30",
+      "speaker": "Doç. Dr. Mustafa Yüceer",
+      "description": "İLAM Araştırma Yaz Kampı Programı kapsamında \"Akademik Hadisçiliğin Dijital Dönüşümü ve Bulanık Mantık\" konulu seminer, 10 Temmuz Cuma günü 09:15-12:30 saatleri arasında gerçekleştirildi.",
+      "poster": "/activities/ilam-yaz-kampi-seminer-afis.jpeg"
+    },
+    {
+      "title": "Osmanlı'da Hadis İlmi",
+      "venue": "Necmettin Erbakan Üniversitesi Ahmet Keleşoğlu İlahiyat Fakültesi",
+      "date": "2022-12-29",
+      "scope": "Ulusal",
+      "description": "Osmanlı'da Hadis İlmi'nin Memlük ve Hicaz bölgesi başta olmak üzere ilişki ağları, dönem ve şahıs merkezli incelemeler ile eser karizmaları seminer sürecinde işlendi."
+    },
+    {
+      "title": "6. Uluslararası Osmanlı Türkçesi Tenkitli Neşir Kursu",
+      "venue": "TDV İslam Araştırmaları Merkezi (İSAM)",
+      "date": "2024-09-12",
+      "endDate": "2024-09-12",
+      "scope": "Uluslararası",
+      "description": "Dini Metinlerin Tenkitli Neşri-Seminer Dersi"
+    },
+    {
+      "title": "Rivayet Kültürü ve Otorite Kuran Eserler: Kronolojik Bir İnceleme",
+      "venue": "DİB Selçuklu Müftülüğü İKRA'R Gençlik Merkezi",
+      "date": "2022-07-27",
+      "endDate": "2022-07-27",
+      "scope": "Ulusal",
+      "description": "Rivayet kültürünün oluşum sürecinden hicri IV. asra kadar geçirdiği safha hadis tarihinde değerlendirmelere konu edilmiş ve pek çok çalışmalar telif edilmiştir."
+    }
+  ],
+  "workshops": [
+    {
+      "title": "Kültür, Sanat ve Değerler Dünyamızın Kaynaklarından Biri Olarak Hadisler Projesi Çalıştayı",
+      "venue": "Online",
+      "date": "2021-05-29",
+      "scope": "Ulusal",
+      "description": "Hadis Metinlerinin Tespiti Konusunda Karşılaşılan Problemler ve Çözüm Önerileri"
+    },
+    {
+      "title": "Mâtürîdî Araştırmaları -Sorunlar ve Öneriler-",
+      "venue": "Selçuk Üniversitesi",
+      "date": "2018-02-06",
+      "scope": "Ulusal"
+    }
+  ],
+  "tvPrograms": [
+    {
+      "title": "Dijital Sınırsızlık ve Yorgun Ruhlarımız",
+      "youtubeId": "4QOmC3B6ATs",
+      "sourceUrl": "https://www.youtube.com/live/4QOmC3B6ATs"
+    },
+    {
+      "title": "Sözden Öze (KONTV)",
+      "description": "Konya TV'de (KONTV) yayımlanan \"Sözden Öze\" programının sunuculuğunu yaptığı bölümlerden bazıları.",
+      "image": "/activities/sozden-oze-kolaj.png",
+      "table": [
+        { "date": "2014-04-04", "name": "Tesettür", "youtubeId": "WoUqDlbE52I" },
+        { "date": "2014-04-11", "name": "Kutlu Doğum", "youtubeId": "dposm6Ev6vI" },
+        { "date": "2014-04-18", "name": "Kutlu Doğum", "youtubeId": "NjLe48QaOt0" },
+        { "date": "2014-05-02", "name": "Annelik Müessesesi", "youtubeId": "QH3QTQ4avpE" },
+        { "date": "2014-05-30", "name": "İlim ve Âlim", "youtubeId": "N-YSK5zAwSs" },
+        { "date": "2014-06-06", "name": "Dua", "youtubeId": "bf71NS_pJyk" },
+        { "date": "2014-06-13", "name": "Üç Aylar (Konya Müftüsü Ali Akpınar ile)", "youtubeId": "K93w6vOaFDM" },
+        { "date": "2014-06-20", "name": "Tevbe Kavramı", "youtubeId": "P9Q7YJ-C2ko" },
+        { "date": "2014-06-27", "name": "Ramazan-ı Şerif Bereketi", "youtubeId": "pWXHq4wUgNM" },
+        { "date": "2014-07-04", "name": "Zekât", "youtubeId": "SxCwnqPa2BA" },
+        { "date": "2014-08-08", "name": "Fıtrat", "youtubeId": "8sNpGBA1CjA" },
+        { "date": "2014-08-15", "name": "Sünnetin Dindeki Yeri", "youtubeId": "W6_GfvPPAqU" },
+        { "date": "2014-08-22", "name": "İhlas ve Kâfirûn Sûresi", "youtubeId": "F0RQmSpt1FY" },
+        { "date": "2014-09-12", "name": "Dua ve Zikir", "youtubeId": "92s4kZdRzu8" },
+        { "date": "2014-09-19", "name": "Doç. Dr. Yaşar Yiğit ile Söyleşi", "youtubeId": "tGcP4_dI3ps" },
+        { "date": "2014-10-10", "name": "Hucurât Sûresi", "youtubeId": "FJJF_f7aHeE" },
+        { "date": "2014-10-17", "name": "Cami ve Gençlik", "youtubeId": "HjyGG_YRAjk" },
+        { "date": "2014-10-24", "name": "Hicret", "youtubeId": "Cr5jvFShdPM" },
+        { "date": "2014-11-07", "name": "İslam'da Aile Terbiyesi", "youtubeId": "99D4aYK57l8" },
+        { "date": "2014-11-14", "name": "İslam ve Tasavvuf", "youtubeId": "HcDfUYOUN6M" }
+      ]
+    }
+  ],
+  "interviews": [
+    {
+      "title": "\"Rahmet ve Mağfiret ve Kur'an Ayı: Hoş Geldin Ramazan\"",
+      "venue": "Demeç Gazetesi Röportajı, Doç. Dr. Mustafa Yüceer",
+      "date": "2026-02-19",
+      "file": "/activities/demec-19-subat-2026-hos-geldin-ramazan.pdf"
+    },
+    {
+      "title": "\"Riya'nın Giremediği Tek İbadet: Oruç\"",
+      "venue": "Demeç Gazetesi Röportajı, Doç. Dr. Mustafa Yüceer",
+      "date": "2026-03-02",
+      "file": "/activities/demec-02-mart-2026-riyanin-giremedigi-tek-ibadet-oruc.pdf"
+    },
+    {
+      "title": "\"Bir Ömre Bedel Kadir Gecesi\"",
+      "venue": "Demeç Gazetesi Röportajı, Doç. Dr. Mustafa Yüceer",
+      "date": "2026-03-16",
+      "file": "/activities/demec-16-mart-2026-bir-omre-bedel-kadir-gecesi.pdf"
+    }
+  ]
+}

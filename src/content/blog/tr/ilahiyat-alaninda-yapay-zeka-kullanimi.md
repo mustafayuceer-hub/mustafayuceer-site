@@ -1,0 +1,62 @@
+---
+title: "İlâhiyat Alanında Yapay Zekâ Kullanımı"
+date: "2026-07-25"
+excerpt: "Hadis, Tefsir ve Fıkıh başta olmak üzere temel İslâm bilimlerinde kaynağı denetimli, usûle dayalı ve kapalı devre çalışan yerli bir yapay zekâ ekosistemi önerisi."
+image: "/blog/ilahiyat-yapay-zeka-banner.jpeg"
+---
+
+**Doç. Dr. Mustafa YÜCEER**
+
+> Bu yazı T.C. Sanayi ve Teknoloji Bakanlığı, Türkiye'nin Yapay Zekâ Vizyonu kapsamında Bir Fikrim Var önerisi olarak bakanlığa iletilmiştir.
+
+## Amaç
+
+İlâhiyat alanında yapay zekâ kullanımı, hâlihazırdaki uygulamalar etrafında büyük ölçüde arama motoru düzeyinde seyretmektedir. Mevcut sistemler bir metni bulmakta, sıralamakta ve özetlemekte; ancak o metnin hangi usûlle sabit olduğunu, hangi ölçütle tercih edildiğini ve hangi ilmî geleneğin süzgecinden geçtiğini sormamaktadır. Bu yönüyle bugünkü tablo, nakli olan fakat tenkidi olmayan bir yapıya benzemektedir: bilgi taşınmakta, fakat tartılmamaktadır.
+
+Sosyal bilimlerin objektifliği tartışması bir yana, ilâhiyat disiplininin farklı ülke ve aidiyetlere göre şekillenen yapısal etkileri, yapay zekâ veri tabanlarının arka planını doğrudan belirlemektedir. Zira bir yapay zekâ uygulamasının çıktısı, beslendiği veri setinin sınırlarını aşamaz; veri setini kurmak ise özü itibarıyla bir kaynak tercihidir ve her kaynak tercihi, arkasında bir usûl ve bir mezhebî kabul taşır. Söz gelimi Şiî veya Neo-Selefî düşünceyi hâiz verilerden beslenen platformların ortaya koyduğu sonuçlar, ilgili düşünceyi destekler nitelikte ve denetimsiz veri setleri meydana getirmektedir. Klasik ilim geleneğimizde bir haberin kimden alındığı, o haberin kendisi kadar önemli sayılmıştır; bugün de bir modelin hangi külliyattan beslendiği, verdiği cevaptan daha belirleyicidir.
+
+Bu doğrultuda başta Tefsir, Hadis ve Fıkıh olmak üzere temel İslâm bilimleri alanında oluşturulacak veri setlerinden hareketle geliştirilecek kapalı sistem yapay zekâ uygulamaları, öncelikle ülkemizde, akabinde uluslararası arenada ses getirecek; yerli, millî ve ülkemizin fikir, zihin ve gönül dünyasına hitap eden bir teknoloji hattı kuracaktır. Burada hedeflenen, mevcut küresel modellerin bir kopyasını Türkçeleştirmek değildir; hedeflenen, kendi usûlümüzü kendi verimizle işleten bir altyapıyı baştan inşa etmektir.
+
+Hadis bilim dalında prototip örnek teoriler, gerek Bulanık Mantık Teorisi gerek Yapay Sinir Ağları düzeyinde tarafımca tartışmaya açılmış ve bu yaklaşımın felsefesi nispeten yazılmıştır. Dolayısıyla önerilen model, sıfırdan başlayan bir teklif değil, kavramsal zemini kısmen kurulmuş ve akademik olarak tartışmaya sunulmuş bir birikimin uygulamaya aktarılması niteliğindedir.
+
+Buna ilaveten, kapalı devre bir hadis usûlü ekosistemi şeklinde tasarlanacak ve SWARM mantığı ile geliştirilecek yapay zekâ uygulamaları, zamanla diğer disiplinleri de kapsayarak geniş bir yelpazeye hitap edebilecektir. Böylece önce usûl/metodoloji, akabinde bizatihi usûle dayalı bilgilerin ontolojik ve epistemik düzeyleri, dijitalleşme yolunda sağlam bir zemine oturacaktır. Bu sıralama tesadüfi değildir: usûl kurulmadan üretilen dijital bilgi, kaynağı belirsiz bir yığından ibaret kalmaktadır.
+
+## Kapsam ve Gerekçe
+
+İlâhiyat alanında önerilen bu modelin hayata geçirilmesi birkaç açıdan zorunludur. Söz konusu zorunluluk, teknolojik bir yenilik arayışından değil, hâlihazırda işleyen ve ülkemiz aleyhine sonuç üreten bir sürecin varlığından kaynaklanmaktadır.
+
+Birincisi, denetimsiz ve aidiyet yüklü veri üretimidir. Küresel ölçekte Şiî düşünceye sahip bir mühendis, Şia'nın klasik bir eserini alıp Bulanık Mantık Teorisi etrafında yine Şia usûlüyle mukayese ederek ortaya uluslararası bir makale çıkarmaktadır. Bu tür çalışmaların matematiksel kurgusu ve mühendislik emeği kendi içinde tutarlı olabilir; nitekim yöntemin uygulanışı bakımından teknik bir yetkinlik taşıdıkları da açıktır. Ne var ki bu şekilde elde edilen veriler, uluslararası literatüre sanki İslâm'ı bütünüyle yansıtıyormuş gibi bir sonuçla girmektedir. Hâlbuki gerek terminoloji gerek usûl bakımından birbirinden tamamen farklı paradigmalar üzerine kurulu düşünce yapıları etrafında düşünüldüğünde, ilgili makaledeki sonuçlar Ehl-i sünnet ve Ehl-i hadis düşüncesine göre neredeyse tamamı sorunlu ve asıl olmayan bilgiler içermektedir. Benzer yaklaşımı Neo-Selefî, Vehhâbî, Zeydî vb. farklı akımların ürettiği çalışmalarda da görmekteyiz. Mesele şudur: bir modelin çıktısı yanlış olduğunda tartışılabilir, fakat çıktı "tarafsız bilim" etiketiyle sunulduğunda tartışma imkânı da ortadan kalkmaktadır. Bugün ülkemizin karşı karşıya olduğu risk tam olarak budur.
+
+İkincisi, dijital kütüphane tecrübesinin bize gösterdiği tablodur. Yaklaşık yirmi yıl önce geliştirilen Şâmile isimli program, bütün dünyada ilâhiyat alanında kabul görmüş ve fiilen ortak bir altyapı hâline gelmiştir; sağladığı erişim kolaylığı ve alana kazandırdığı hız inkâr edilemez, nitekim bizim akademik camiamız da bu imkândan uzun yıllar istifade etmiştir. Ne var ki ilgili programın yürütücüleri Suudi Arabistan tarafından desteklenmekte ve programın içindeki kitaplara yönelik iki yönlü bir propaganda ve tehcir uygulanmaktadır. Kendi düşüncelerini destekleyen kitap, makale, forum yazıları vb. unsurlar aktif bir şekilde kullanıma sunulurken; söz gelimi tasavvuf başta olmak üzere Hanefî-Mâtürîdî düşünceye ve bizim coğrafyamıza dair muhtevaya yönelik sansürler hâlâ devam edebilmektedir. Bu doğrultuda mesele bir yazılımın eksikliği değil, kütüphanenin raflarını kimin dizdiği meselesidir; rafı dizen, okunanı da tayin etmektedir. Bu sebeple Türkçe, Arapça ve İngilizce arayüzü olan bir dijital veri tabanı-ekosistemi kurmak elzemdir. Üç dilli arayüz, projenin yalnız bir erişim ayrıntısı değil, doğrudan hedef kitlesini tarif eden bir tercihidir: Türkçe ile kendi akademik ve toplumsal zeminimize, Arapça ile İslâm dünyasının asıl kaynak diline, İngilizce ile de bu alanda söz söyleyen uluslararası literatüre aynı anda hitap edilecektir.
+
+Üçüncüsü, çeviri katmanının doğurduğu anlam kaybıdır. NLP ve LLM sistemlerinin çalışma yapılarında var olan translate özellikleri, bilgilerin başta anlamı olmak üzere maksat ve ruhunu farklılaştırmaktadır. İngilizce esaslı çevirilerin doğurduğu anlam kargaşası, sahih dinî bilginin kontrolsüz yayılmasına neden olmakta ve pek çok çalışma bu anlamda hatalı verilerle örülmektedir. Bir kavramın kendi diline ve kendi ilmî bağlamına ait çerçevesi silinip yerine başka bir dilin çağrışım dünyası konulduğunda ortaya çıkan sonuç, kaynağı gizlenmiş bir naklin doğurduğu neticeye benzemektedir; görünüşte bilgi yerindedir, fakat isnadı ve maksadı değişmiştir. Bunun çözümü, kapalı devre çalışan Bulanık Küme Teorisi, ANN ve SWARM ile güçlendirilmiş, ilâhiyata yönelik bir yapay zekâ altyapısının kurulması ile mümkün olacaktır. Kapalı devre tercihi burada bir kısıtlama değil, bir güvence unsurudur: sistemin hangi külliyattan beslendiği, hangi usûlle işlediği ve hangi çıktıyı hangi gerekçeyle ürettiği izlenebilir kalacaktır.
+
+Bu sayede teknofest odaklı gelişen teknolojinin sosyofest boyutu, din savaşlarından öte mezhep çatışmaları ile ilerleyen modern zamanda hem ülkemizin konumunu ve otoritesini güçlendirecek hem de İslâm dünyasının yeniden bir araya gelmesine katkı sağlayacak algoritmaların oluşmasına kapı aralayacaktır. Bu anlamda kolektif bir proje ekibinin kurulması ve yaklaşık 80 yıldır her kademesinde farklı ilerlemeler kaydeden ilâhiyat birikiminin dijitalleşme sürecinin sağlıklı zeminlerde işlenmesi ile uluslararasılığın odağı genişleyecektir. Söz konusu ekip, yalnız yazılım tarafını değil, veri setinin kaynak seçimini ve usûl denetimini de üstlenecek biçimde ilâhiyat ve mühendislik disiplinlerini birlikte yürütmelidir; zira bu projede asıl kritik eşik, modelin gücü değil, modele ne verildiğinin denetimidir.
+
+Nihayetinde bu proje, ülkemizin dijital alanda bir tüketici olmaktan çıkıp kendi ilmî geleneğinin usûlünü teknolojiye taşıyan bir üretici konumuna geçmesini hedeflemektedir. Bugün atılmayan adım, yarın başkalarının kurduğu veri setleri üzerinden bize geri dönmektedir.
+
+## Beklenen Çıktılar
+
+Bu projeden beklenen çıktılar, yukarıda ortaya konan gerekçelerin doğrudan karşılığı olacak biçimde tasarlanmıştır. Dolayısıyla aşağıdaki kalemler birbirinden bağımsız hedefler değil, birbirini besleyen tek bir zincirin halkalarıdır: veri seti kurulmadan usûl motoru çalışmaz, usûl motoru kurulmadan arayüzün bir kıymeti kalmaz.
+
+### A. Teknik ve Altyapı Çıktıları
+
+1. **Denetimli ve kaynağı belli veri setleri.** Başta Tefsir, Hadis ve Fıkıh olmak üzere temel İslâm bilimleri alanında, hangi eserin hangi gerekçeyle sete dâhil edildiği kayıt altına alınmış veri havuzları oluşturulacaktır. Bu, projenin en kritik çıktısıdır; zira bir modelin isabeti, nihayetinde kendisine ne verildiğine bağlıdır.
+2. **Kapalı sistem yapay zekâ altyapısı.** Dışarıdan denetimsiz veri akışına açık olmayan, çıktısının hangi kaynaktan ve hangi usûlle üretildiği izlenebilen yerli ve millî bir altyapı kurulacaktır. Kapalı devre tercihi burada bir sınırlama değil, çıktının hesabının verilebilmesi anlamına gelmektedir.
+3. **Hadis usûlü ekosistemi prototipi.** Bulanık Mantık/Bulanık Küme Teorisi, Yapay Sinir Ağları ve SWARM mantığı ile geliştirilecek prototip, hadis usûlünün işleyişini dijital ortamda modelleyecektir. Bu yönüyle proje, bir arama motoru değil, bir tartma ve derecelendirme mekanizması üretmeyi hedeflemektedir.
+4. **Türkçe, Arapça ve İngilizce arayüzlü dijital veri tabanı-ekosistemi.** Üç dilli arayüz, aynı anda kendi akademik zeminimize, İslâm dünyasının asıl kaynak diline ve uluslararası literatüre erişim sağlayacaktır. Nitekim bu alanda söz söyleyebilmek, önce söylenenlerin konuşulduğu dilde hazır bulunmayı gerektirmektedir.
+5. **Diğer disiplinlere ölçeklenebilir mimari.** SWARM mantığıyla kurulacak yapı, hadis usûlü çekirdeğinden hareketle diğer temel İslâm bilimlerine genişleyebilecek biçimde tasarlanacaktır. Böylece her disiplin için sıfırdan sistem kurma yükü ortadan kalkacak, ortak bir usûl zemini üzerinde yaygınlaşma sağlanacaktır.
+
+### B. İlmî ve İçerik Çıktıları
+
+6. **Sansüre uğramamış kaynak havuzu.** Başta tasavvuf olmak üzere Hanefî-Mâtürîdî düşünceye ve kendi coğrafyamızın ilmî birikimine ait eserler, hiçbir ayıklamaya tabi tutulmadan sisteme dâhil edilecektir. Söz gelimi mevcut dijital kütüphanelerde raf dışında bırakılan bir literatür, burada asli yerini bulacaktır.
+7. **Kendi dilinde işleyen kavram ve terminoloji katmanı.** İngilizce esaslı çevirilerin doğurduğu anlam kaymasını bertaraf edecek şekilde, kavramlar kendi ilmî bağlamı içinde tanımlanacak ve sistem bu tanımlar üzerinden çalışacaktır. Bu doğrultuda terminoloji, çevirinin artığı olmaktan çıkıp sistemin çekirdeği hâline gelecektir.
+8. **Usûle dayalı bilginin dijital zemine oturtulması.** Önce usûl/metodoloji, akabinde usûle dayalı bilgilerin ontolojik ve epistemik düzeyleri dijital ortama aktarılacaktır. Ne var ki bu sıralamanın bozulması hâlinde ortaya çıkacak olan, dijitalleşmiş bir ilim değil, kaynağı belirsiz bir yığındır; projenin iş akışı bu sebeple usûlden içeriğe doğru kurgulanmıştır.
+
+### C. Stratejik ve İnsan Kaynağı Çıktıları
+
+9. **Kolektif proje ekibi ve kurumsal kapasite.** İlâhiyat ve mühendislik disiplinlerini birlikte yürüten kalıcı bir çalışma ekibi teşekkül edecek, böylece proje süresiyle sınırlı kalmayan bir birikim ve iş yapma kabiliyeti oluşacaktır. Bu ekip, yazılımın yanı sıra kaynak seçiminin ve usûl denetiminin de sorumluluğunu üstlenecektir.
+10. **Uluslararası akademik görünürlük ve söz hakkı.** Yaklaşık 80 yıldır her kademesinde ilerleme kaydeden ilâhiyat birikiminin dijitalleşmesiyle, uluslararasılığın odağı genişleyecektir. Bu sayede farklı akımların ürettiği çalışmalara karşı, itiraz düzeyinde değil, kendi usûlümüzü işleten bir sistem üzerinden cevap verme imkânı doğacaktır.
+11. **İslâm dünyası ile ortak kullanım zemini.** Üç dilli ve usûl temelli bir ekosistem, mezhep çatışmalarıyla ilerleyen bir dönemde ortak bir müracaat noktası oluşturacaktır. Bu yönüyle teknofest odaklı gelişen teknolojinin sosyofest boyutu hayata geçecek; hem ülkemizin konumu ve otoritesi güçlenecek hem de İslâm dünyasının yeniden bir araya gelmesine katkı sağlayacak algoritmaların önü açılacaktır.
+
+Bu çıktıların tamamı, tek bir şarta bağlıdır: veri setinin denetimi. Sistem ne kadar güçlü kurulursa kurulsun, kaynak seçimi başkasına bırakıldığı anda elde edilecek sonuç, bugün eleştirdiğimiz tablodan farklı olmayacaktır.

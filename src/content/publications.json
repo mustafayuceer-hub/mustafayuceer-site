@@ -1,0 +1,418 @@
+{
+  "articles": [
+    {
+      "code": "A01",
+      "title": "Bulanık Mantık ve Yapay Zekâ Işığında Hadis Usûlünü Yeniden Düşünmek",
+      "venue": "Hitit İlahiyat Dergisi",
+      "year": 2025,
+      "file": "/publications/A01.pdf"
+    },
+    {
+      "code": "A02",
+      "title": "المنظومات في شرح الحديث",
+      "venue": "Diyanet Arapça İlmi Dergi",
+      "year": 2025,
+      "file": "/publications/A02.pdf"
+    },
+    {
+      "code": "A03",
+      "title": "Hadis İlminde Cemaat ve Ravâhü'l-Cemâa İlle'l-Buhârî Kavramı",
+      "venue": "Mevzu",
+      "year": 2024,
+      "file": "/publications/A03.pdf"
+    },
+    {
+      "code": "A04",
+      "title": "Hadis Şerh Geleneğinde Manzûmeler: Buhârî Bin Ehâdîs Şerhi",
+      "venue": "Diyanet İlmi Dergi",
+      "year": 2024,
+      "file": "/publications/A04.pdf"
+    },
+    {
+      "code": "A05",
+      "title": "Yalan Haber Tespitinde Metodoloji Arayışları",
+      "venue": "Mevzu",
+      "year": 2023,
+      "file": "/publications/A05.pdf"
+    },
+    {
+      "code": "A06",
+      "title": "Mevlânâ'nın Dîvân-ı Kebîr'inde İktibas ve Telmih",
+      "venue": "Cumhuriyet İlahiyat Dergisi",
+      "year": 2022,
+      "file": "/publications/A06.pdf"
+    },
+    {
+      "code": "A07",
+      "title": "Büsr b. Ebî Ertât Rivayeti: Savaşta Hırsızlık",
+      "venue": "Mütefekkir",
+      "year": 2022,
+      "file": "/publications/A07.pdf"
+    },
+    {
+      "code": "A08",
+      "title": "Son Dönem Nakşî-Hâlidî Şeyhi Kaşıkçı Ali Rıza Konevî ve Kırk Hadisi",
+      "venue": "Sufiyye",
+      "year": 2022,
+      "file": "/publications/A08.pdf"
+    },
+    {
+      "code": "A09",
+      "title": "Kutsal Kabul Edilen Zamanlarda Paylaşılan Bilgilerin Güvenilirliği",
+      "venue": "ATEBE",
+      "year": 2021,
+      "file": "/publications/A09.pdf"
+    },
+    {
+      "code": "A10",
+      "title": "Klasik ve Modern Dönemde Yalan Haberin Tespiti",
+      "venue": "Medya ve Din Araştırmaları Dergisi",
+      "year": 2021,
+      "file": "/publications/A10.pdf"
+    },
+    {
+      "code": "A11",
+      "title": "Men Hafiza Rivâyeti ve Manzum Kırk Hadis Geleneğine Tesiri",
+      "venue": "Tasavvur",
+      "year": 2020,
+      "file": "/publications/A11.pdf"
+    }
+  ],
+  "proceedings": [
+    {
+      "code": "B1",
+      "title": "Balkan Coğrafyasında Manzum Kırk Hadisler",
+      "venue": "18. Uluslararası Türk Dünyası Sosyal Bilimler Kongresi",
+      "year": 2020,
+      "file": "/publications/B01.pdf"
+    },
+    {
+      "code": "B2",
+      "title": "Manzum Hadislerde Kadın Algısı",
+      "venue": "Türk Kültürü, Sanatı ve Edebiyatında Hadisler",
+      "year": 2021,
+      "file": "/publications/B03.pdf"
+    },
+    {
+      "code": "B3",
+      "title": "Metinlerarasılık Perspektifinde Anlam Değişimi (Tam Metin)",
+      "venue": "The 6th International Symposium on Human and Society Sustainable Development",
+      "year": 2023,
+      "file": "/publications/B06.pdf"
+    },
+    {
+      "code": "B02",
+      "title": "Dinî Gün ve Gecelerde Paylaşılan Bilgilerin Güvenilirliği: Haber7.com Örneği (Özet)",
+      "venue": "Uluslararası Din ve Medya Sempozyumu",
+      "year": 2021
+    },
+    {
+      "code": "B04",
+      "title": "Metinlerarasılık Perspektifinde Anlam Değişimi (Özet Bildiri) (Özet)",
+      "venue": "6. Uluslararası İnsan ve Toplum Sürdürülebilir Kalkınma Sempozyumu",
+      "year": 2023
+    },
+    {
+      "code": "B05",
+      "title": "Hadis Usûlünde Yapay Zekânın Klasiğini Kurgulamak Mümkün mü? (Özet)",
+      "venue": "Dijital Çağda Dil, Din, Düşünce ve Ahlâkın Evrimi Sempozyumu",
+      "year": 2025
+    },
+    {
+      "code": "B07",
+      "title": "Rivayet Kültüründe Yüzme Sporu ve Âdâbı (Özet)",
+      "venue": "Uluslararası İslami Dayanışma Oyunları Sempozyumu",
+      "year": 2022
+    },
+    {
+      "code": "B08",
+      "title": "Kerderli Mahmud'un Nehcü'l-Ferâdîs'i (Özet)",
+      "venue": "Orta Asya'dan Anadolu'ya İslami İlimler Sempozyumu",
+      "year": 2021
+    },
+    {
+      "code": "B09",
+      "title": "Modern Dönem Muhaddislerin Eleştiri Yöntemleri (Özet)",
+      "venue": "Eleştiri Kültürü ve Tahammül Ahlâkı-III Sempozyumu",
+      "year": 2021
+    }
+  ],
+  "books": [
+    {
+      "code": "C1-01",
+      "title": "Eser-Rey İhtilâfında Gumârî'nin Kevserî'ye Eleştirileri",
+      "venue": "Fecr Yayınları, Ankara",
+      "year": 2024
+    },
+    {
+      "code": "C1-02",
+      "title": "Osmanlı Manzum Hadis Edebiyatı",
+      "venue": "TDV Yayınları, Ankara",
+      "year": 2021
+    },
+    {
+      "code": "C1-03",
+      "title": "Kelâmla İlgili Rivâyetler: Ömer Nasûhî Bilmen'in Muvazzah İlm-i Kelâm Örneğinde",
+      "venue": "Hikmetevi Yayınları, Konya",
+      "year": 2020
+    },
+    {
+      "code": "C1-04",
+      "title": "Istılâhât-ı Fıkhıyye Kâmusu'nda Yer Alan Hadislerin Tahrîc ve Tenkîdi",
+      "venue": "Ankara",
+      "year": 2017
+    }
+  ],
+  "bookChapters": [
+    {
+      "code": "C2-01",
+      "title": "Hadis Usûlünde Yapay Zekânın Klasiğini Kurgulamak Mümkün mü?",
+      "venue": "Dijital Çağda Dil, Din, Düşünce ve Ahlâkın Evrimi",
+      "year": 2025,
+      "file": "/publications/C2-01.pdf"
+    },
+    {
+      "code": "C2-02",
+      "title": "استخدام الحديث في مؤلفات عمر نصوحي بلمن",
+      "venue": "Hanefîlik-Mâtürîdîlik Araştırmaları",
+      "year": 2025,
+      "file": "/publications/C2-02.pdf"
+    },
+    {
+      "code": "C2-03",
+      "title": "Kaşıkçı Ali Rıza Konevî'nin Kenzü'l-Fuâd Adlı Eserinde Hadis",
+      "venue": "",
+      "year": 2024,
+      "file": "/publications/C2-03.pdf"
+    },
+    {
+      "code": "C2-04",
+      "title": "İsmail Beliğ'in Gül-i Sad Berg Adlı Eseri ve Hadisçi Kimliği",
+      "venue": "",
+      "year": 2022,
+      "file": "/publications/C2-04.pdf"
+    },
+    {
+      "code": "C2-05",
+      "title": "Rivayet Kültüründe Yüzme Sporu ve Âdâbı",
+      "venue": "İslam'da Dayanışma ve Spor",
+      "year": 2022,
+      "file": "/publications/C2-05.pdf"
+    },
+    {
+      "code": "C2-06",
+      "title": "Eş'arî'de Vahiy-Sünnet İlişkisi",
+      "venue": "Kerim Elçinin Sözü Vahiy",
+      "year": 2022,
+      "file": "/publications/C2-06.pdf"
+    },
+    {
+      "code": "C2-07",
+      "title": "el-Kavlü fî Ba'zi't-Tevehhümât",
+      "venue": "Şerhu'l-Akîdeti't-Tahâviyye",
+      "year": 2021,
+      "file": "/publications/C2-07.pdf"
+    },
+    {
+      "code": "C2-08",
+      "title": "Kerderli Mahmud'un Nehcü'l-Ferâdîs Adlı Eseri",
+      "venue": "Orta Asya'dan Anadolu'ya İlmin Yolculuğu",
+      "year": 2021,
+      "file": "/publications/C2-08.pdf"
+    },
+    {
+      "code": "C2-09",
+      "title": "Modern Dönem Muhaddislerin Eleştiri Yöntemleri",
+      "venue": "İslam Düşüncesinde Eleştiri Kültürü ve Tahammül Ahlâkı-III",
+      "year": 2021,
+      "file": "/publications/C2-09.pdf"
+    }
+  ],
+  "other": [
+    {
+      "code": "D01",
+      "title": "Mevlânâ'nın Fîhi Mâ Fîh İsimli Eserinde Hadis Kullanımı",
+      "venue": "Akademik US",
+      "year": 2018,
+      "file": "/publications/D01.pdf"
+    },
+    {
+      "code": "DY01",
+      "title": "Şiire Can Suyu, Şaire Hayat Veren Hadislerin Anadolu Kıtasına Bıraktığı İz",
+      "venue": "Millî Mecmua",
+      "year": 2022,
+      "file": "/publications/DY01.pdf"
+    },
+    {
+      "code": "T01",
+      "title": "Kitap Kritiği: Taha Çelik, Hadis ve Mezhep İhtilafı",
+      "venue": "Hitit İlahiyat Fakültesi Dergisi",
+      "year": 2020,
+      "file": "/publications/T01.pdf"
+    },
+    {
+      "code": "T02",
+      "title": "Kitap Kritiği: Kemal Taşkın, Hadislerde Tevessül, İstigâse ve Teberrük",
+      "venue": "İHTİSAS",
+      "year": 2020,
+      "file": "/publications/T02.pdf"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Hadis Açısından Dijital Çağda Dil, Din, Düşünce ve Ahlakın Evrimi",
+      "team": [
+        "Mehmet Büküm",
+        "Hatice Merve Çalışkan Başer",
+        "Coşkun Baba",
+        "Hamide Ulupınar",
+        "Mehmet Dirik",
+        "Mustafa Yüceer"
+      ],
+      "type": "Diğer (Uluslararası)",
+      "status": "Tamamlandı",
+      "startDate": "2025-01-01",
+      "endDate": "2025-12-01"
+    },
+    {
+      "title": "İrfan Medeniyetinde Mevlânâ ve Mevlevîlik (İMEM)",
+      "team": ["Mustafa Yüceer", "Bayram Ali Çetinkaya"],
+      "type": "Diğer Kamu Kuruluşları (Yükseköğretim Kurumları Hariç)",
+      "status": "Tamamlandı",
+      "startDate": "2021-03-27",
+      "endDate": "2024-10-24"
+    },
+    {
+      "title": "Kaşıkçı Ali Rıza Efendi'nin (ö. 1883-1969) Hayatı, Eserleri ve İlmi Kişiliği",
+      "team": ["Mustafa Yüceer", "Furkan Çakır"],
+      "type": "Diğer Kamu Kuruluşları (Yükseköğretim Kurumları Hariç)",
+      "status": "Tamamlandı",
+      "startDate": "2022-03-19",
+      "endDate": "2024-09-04"
+    }
+  ],
+  "courses": {
+    "undergraduate": [
+      { "term": "2025-2026", "name": "Arapçaya Giriş I", "language": "Türkçe" },
+      { "term": "2025-2026", "name": "Hadis IV", "language": "Türkçe" },
+      { "term": "2025-2026", "name": "Mesleki Hitabet", "language": "Türkçe" },
+      { "term": "2025-2026", "name": "Arapça Okuma Yazma Çeviri I", "language": "Türkçe" },
+      { "term": "2024-2025", "name": "Hadis I", "language": "Türkçe" },
+      { "term": "2021-2022", "name": "Sosyal Sorumluluk ve Değerler Eğitimi I", "language": "Türkçe" },
+      { "term": "2021-2022", "name": "Hadis IV", "language": "Türkçe" },
+      { "term": "2021-2022", "name": "Hadis III", "language": "Türkçe" },
+      { "term": "2021-2022", "name": "Arapça Dil Bilgisi III", "language": "Türkçe" },
+      { "term": "2021-2022", "name": "Sosyal Sorumluluk ve Değerler Eğitimi II", "language": "Türkçe" },
+      { "term": "2021-2022", "name": "Ekolojik Sorunlara İslam Odaklı Yaklaşımlar I", "language": "Türkçe" },
+      { "term": "2021-2022", "name": "Ekolojik Sorunlara İslam Odaklı Yaklaşımlar II", "language": "Türkçe" },
+      { "term": "2020-2021", "name": "Hadis II", "language": "Türkçe" }
+    ],
+    "graduate": [
+      { "term": "2025-2026", "name": "Hadis Analiz Yöntemleri II", "language": "Türkçe" },
+      { "term": "2021-2022", "name": "Türk Kültüründe Hadis II", "language": "Türkçe" },
+      { "term": "2021-2022", "name": "Türk Kültüründe Hadis I", "language": "Türkçe" },
+      { "term": "2021-2022", "name": "Hadis Analiz Yöntemleri II", "language": "Türkçe" },
+      { "term": "2021-2022", "name": "Araştırma Yöntem ve Teknikleri", "language": "Türkçe" },
+      { "term": "2021-2022", "name": "Hadis Analiz Yöntemleri I", "language": "Türkçe" }
+    ]
+  },
+  "editorships": [
+    {
+      "year": 2025,
+      "role": "Editör",
+      "title": "حديث الفطرة : دراسة اسنادية تحليلية",
+      "scope": "Uluslararası"
+    },
+    {
+      "year": 2024,
+      "role": "Yayın Kurulu Üyeliği",
+      "title": "TEVİLAT",
+      "scope": "Uluslararası"
+    },
+    {
+      "year": 2024,
+      "role": "Editör",
+      "title": "Kenzü'l-Fuâd, Necâtü'l-Mü'minîn min Ehâdîsi'l-Erbaîn- Kaşıkçı Ali Rıza Konevî",
+      "scope": "Uluslararası"
+    },
+    {
+      "year": 2023,
+      "role": "Editör",
+      "title": "Kırk Hadis ve Hz. Ali Sözleri Tercümesi (Hadis-i Erbaîn, Nesrü'l-Leâlî ve Sad Kelime-i Hz. Ali Çevirileri)",
+      "scope": "Ulusal"
+    },
+    {
+      "year": 2023,
+      "role": "Editör",
+      "title": "Fıkıh Usulünde Şart Nazariyesi (Akitler Örneği)",
+      "scope": "Uluslararası"
+    },
+    {
+      "year": 2023,
+      "role": "Editör",
+      "title": "Ateizm Kendi Paradigmasıyla Yüzleşiyor - Filozoflarının Dilinden Ateizm Gerçekliği - (el-İlhâd fî müvâceheti nefsihi hakikatü'l-ilhâd alâ elsineti fe...)",
+      "scope": "Uluslararası"
+    },
+    {
+      "year": 2021,
+      "role": "Yayın Kurulu Üyeliği",
+      "title": "Marife Dini Araştırmalar Dergisi",
+      "scope": "Uluslararası"
+    },
+    {
+      "year": 2022,
+      "role": "Editör",
+      "title": "Vahiy ve Gelenek",
+      "scope": "Uluslararası"
+    },
+    {
+      "year": 2022,
+      "role": "Editör",
+      "title": "Mahiyet ve Hakikat Bağlamında Vahiy Olgusu",
+      "scope": "Uluslararası"
+    },
+    {
+      "year": 2022,
+      "role": "Editör",
+      "title": "Hadislerde Namazın Rükünleri",
+      "scope": "Uluslararası"
+    },
+    {
+      "year": 2021,
+      "role": "Editör",
+      "title": "Mavi Vatanın Kudüsü (Kıbrıs'ta Din ve Siyaset)",
+      "scope": "Uluslararası"
+    },
+    {
+      "year": 2021,
+      "role": "Editör",
+      "title": "TEVİLAT",
+      "scope": "Uluslararası"
+    }
+  ],
+  "peerReviews": [
+    "Ahi İlahiyat Dergisi",
+    "Akademik-Us",
+    "Akif",
+    "Ankara Üniversitesi İlahiyat Fakültesi Dergisi",
+    "ATEBE",
+    "Darulhadis İslami Araştırmalar Dergisi",
+    "Din ve Bilim - Muş Alparslan Üniversitesi İslami İlimler Fakültesi Dergisi",
+    "Din ve İnsan Dergisi",
+    "Diyanet İlmi Dergi",
+    "Düzce İlahiyat Dergisi",
+    "Düzce Üniversitesi İlahiyat Fakültesi Dergisi",
+    "Eskişehir Osmangazi Üniversitesi İlahiyat Fakültesi Dergisi",
+    "GİBTÜ İslami Araştırmalar Dergisi",
+    "Gümüşhane Üniversitesi İlahiyat Fakültesi Dergisi",
+    "HADITH",
+    "İhya Uluslararası İslam Araştırmaları Dergisi",
+    "İSTEM",
+    "Marife Dini Araştırmalar Dergisi",
+    "Marifetname",
+    "Mevzu – Sosyal Bilimler Dergisi",
+    "Rumeli İslam Araştırmaları Dergisi",
+    "Süleyman Demirel Üniversitesi İlahiyat Fakültesi Dergisi",
+    "Tevilat"
+  ]
+}
