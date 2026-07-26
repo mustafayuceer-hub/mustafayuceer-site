@@ -39,7 +39,15 @@ function Blog({
       <h1 className="text-3xl font-semibold tracking-tight sm:text-4xl">
         {t("heading")}
       </h1>
-      <p className="mt-4 max-w-2xl leading-relaxed text-neutral-600 dark:text-neutral-300">
+      <Image
+        src="/blog/blog-hero-illustration.jpeg"
+        alt={t("heading")}
+        width={750}
+        height={648}
+        priority
+        className="mt-6 h-56 w-full rounded-2xl object-cover shadow-md ring-1 ring-black/5 sm:h-72 dark:ring-white/10"
+      />
+      <p className="mt-6 max-w-2xl leading-relaxed text-neutral-600 dark:text-neutral-300">
         {t("intro")}
       </p>
 
