@@ -52,11 +52,11 @@ export default function Navbar() {
         </nav>
 
         <button
-          className="flex items-center gap-2 md:hidden"
+          className="-me-2 flex h-11 w-11 items-center justify-center rounded-full text-2xl transition-colors hover:bg-black/5 md:hidden dark:hover:bg-white/10"
           onClick={() => setOpen((v) => !v)}
           aria-label="Menu"
         >
-          <span className="text-sm">{open ? "✕" : "☰"}</span>
+          <span>{open ? "✕" : "☰"}</span>
         </button>
       </div>
 

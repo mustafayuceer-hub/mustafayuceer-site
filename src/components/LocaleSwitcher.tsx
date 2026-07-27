@@ -23,7 +23,7 @@ export default function LocaleSwitcher() {
               { locale: loc }
             )
           }
-          className={`rounded-full px-2.5 py-1 uppercase transition-colors ${
+          className={`rounded-full px-3.5 py-2 uppercase transition-colors md:px-2.5 md:py-1 ${
             locale === loc
               ? "bg-neutral-900 text-white dark:bg-white dark:text-neutral-900"
               : "text-neutral-500 hover:text-neutral-900 dark:hover:text-white"
