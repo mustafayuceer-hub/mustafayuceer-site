@@ -315,6 +315,9 @@ function Activities() {
                           {item.description}
                         </p>
                       )}
+                      {item.photos && item.photos.length > 0 && (
+                        <PhotoGallery photos={item.photos} alt={item.title} />
+                      )}
                       {item.file && (
                         <a
                           href={item.file}
