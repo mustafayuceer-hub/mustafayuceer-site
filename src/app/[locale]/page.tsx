@@ -39,7 +39,7 @@ function Home() {
           <div className="mt-10 flex flex-wrap gap-4">
             <Link
               href="/publications"
-              className="rounded-full bg-[var(--accent)]/10 px-6 py-3 text-sm font-medium text-[var(--accent)] transition hover:bg-[var(--accent)]/20"
+              className="rounded-full bg-[var(--accent)] px-6 py-3 text-sm font-medium text-white transition hover:brightness-110"
             >
               {t("heroCtaSecondary")}
             </Link>
