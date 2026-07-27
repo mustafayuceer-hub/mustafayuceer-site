@@ -124,7 +124,14 @@
     "intro": "Akademik iş birlikleri, danışma ve sorularınız için benimle iletişime geçebilirsiniz.",
     "email": "E-posta",
     "institution": "Kurum",
-    "institutionValue": "Selçuk Üniversitesi, İlahiyat Fakültesi, Hadis Anabilim Dalı"
+    "institutionValue": "Selçuk Üniversitesi, İlahiyat Fakültesi, Hadis Anabilim Dalı",
+    "formHeading": "Mesaj Gönder",
+    "formName": "İsim",
+    "formMessage": "Mesajınız",
+    "formSubmit": "Gönder",
+    "formSending": "Gönderiliyor...",
+    "formSuccess": "Mesajınız gönderildi, teşekkürler! En kısa sürede dönüş yapacağım.",
+    "formError": "Mesajınız gönderilemedi. Lütfen tekrar deneyin veya doğrudan e-posta gönderin."
   },
   "footer": {
     "rights": "Tüm hakları saklıdır."

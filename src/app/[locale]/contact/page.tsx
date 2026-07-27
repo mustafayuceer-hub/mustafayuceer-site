@@ -2,6 +2,7 @@ import { useTranslations } from "next-intl";
 import { setRequestLocale } from "next-intl/server";
 import { routing } from "@/i18n/routing";
 import academicProfiles from "@/content/academic-profiles.json";
+import ContactForm from "@/components/ContactForm";
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -55,6 +56,9 @@ function Contact() {
           </dd>
         </div>
       </dl>
+
+      <h2 className="mt-16 text-xl font-semibold">{t("formHeading")}</h2>
+      <ContactForm />
 
       <div className="mt-16 border-t border-black/10 pt-12 dark:border-white/10">
         <h2 className="text-2xl font-semibold">

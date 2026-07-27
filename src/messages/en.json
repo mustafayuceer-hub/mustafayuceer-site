@@ -124,7 +124,14 @@
     "intro": "Feel free to reach out for academic collaboration, consultation, or any questions.",
     "email": "Email",
     "institution": "Institution",
-    "institutionValue": "Selçuk University, Faculty of Theology, Department of Hadith"
+    "institutionValue": "Selçuk University, Faculty of Theology, Department of Hadith",
+    "formHeading": "Send a Message",
+    "formName": "Name",
+    "formMessage": "Your Message",
+    "formSubmit": "Send",
+    "formSending": "Sending...",
+    "formSuccess": "Your message has been sent, thank you! I will get back to you soon.",
+    "formError": "Your message could not be sent. Please try again or email directly."
   },
   "footer": {
     "rights": "All rights reserved."
