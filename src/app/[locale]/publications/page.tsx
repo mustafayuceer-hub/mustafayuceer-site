@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { useLocale, useTranslations } from "next-intl";
 import { setRequestLocale } from "next-intl/server";
 import { routing } from "@/i18n/routing";
@@ -25,6 +26,7 @@ type Pub = {
   venue: string;
   year: number;
   file?: string;
+  cover?: string;
 };
 
 type Editorship = {
@@ -57,16 +59,120 @@ function formatDate(date: string, locale: string) {
   );
 }
 
-const categoryOrder: {
+const categoryOrderBeforeBooks: {
+  key: keyof typeof publications;
+  labelKey: string;
+}[] = [{ key: "articles", labelKey: "articles" }];
+
+const categoryOrderAfterBooks: {
   key: keyof typeof publications;
   labelKey: string;
 }[] = [
-  { key: "articles", labelKey: "articles" },
-  { key: "books", labelKey: "books" },
   { key: "bookChapters", labelKey: "bookChapters" },
   { key: "proceedings", labelKey: "proceedings" },
   { key: "other", labelKey: "other" },
 ];
+
+function renderPubSection(
+  key: keyof typeof publications,
+  labelKey: string,
+  t: ReturnType<typeof useTranslations>
+) {
+  const items = publications[key] as Pub[];
+  if (!items?.length) return null;
+  return (
+    <section key={key} className="mt-14">
+      <h2 className="text-xl font-semibold">{t(`categories.${labelKey}`)}</h2>
+      <ol className="mt-5 space-y-4">
+        {items.map((pub) => (
+          <li
+            key={pub.code}
+            className="flex gap-4 border-b border-black/5 pb-4 dark:border-white/10"
+          >
+            <span className="mt-0.5 shrink-0 font-mono text-xs text-neutral-400">
+              {pub.code}
+            </span>
+            <div className="flex-1">
+              <p className="leading-relaxed text-neutral-700 dark:text-neutral-300">
+                <span className="font-medium text-neutral-900 dark:text-white">
+                  {pub.title}
+                </span>
+                {pub.venue ? `, ${pub.venue}` : ""}
+                {pub.year ? ` (${pub.year})` : ""}
+              </p>
+              {pub.file && (
+                <a
+                  href={pub.file}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-1 inline-flex items-center gap-1 text-sm font-medium text-[var(--accent)] hover:underline"
+                >
+                  {t("viewPdf")} ↗
+                </a>
+              )}
+            </div>
+          </li>
+        ))}
+      </ol>
+    </section>
+  );
+}
+
+function BooksSection() {
+  const t = useTranslations("publications");
+  const books = publications.books as Pub[];
+  if (!books?.length) return null;
+
+  return (
+    <section className="mt-14">
+      <h2 className="text-xl font-semibold">{t("categories.books")}</h2>
+      <ul className="mt-6 grid grid-cols-1 gap-6 sm:grid-cols-2">
+        {books.map((book) => (
+          <li
+            key={book.code}
+            className="overflow-hidden rounded-2xl border border-black/10 dark:border-white/10"
+          >
+            {book.cover && (
+              <a
+                href={book.file}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="relative block h-56 w-full"
+              >
+                <Image
+                  src={book.cover}
+                  alt={book.title}
+                  fill
+                  className="object-cover"
+                />
+              </a>
+            )}
+            <div className="p-5">
+              <h3 className="font-serif text-lg font-semibold text-neutral-900 dark:text-white">
+                {book.title}
+              </h3>
+              <p className="mt-1 text-sm text-neutral-500">
+                {[book.venue, book.year ? String(book.year) : null]
+                  .filter(Boolean)
+                  .join(" · ")}
+              </p>
+              {book.file && (
+                <a
+                  href={book.file}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-3 inline-flex items-center gap-1 text-sm font-medium text-[var(--accent)] hover:underline"
+                >
+                  {t("viewPdf")} ↗
+                </a>
+              )}
+            </div>
+          </li>
+        ))}
+      </ul>
+    </section>
+  );
+}
 
 function Publications() {
   const t = useTranslations("publications");
@@ -80,48 +186,15 @@ function Publications() {
         {t("intro")}
       </p>
 
-      {categoryOrder.map(({ key, labelKey }) => {
-        const items = publications[key] as Pub[];
-        if (!items?.length) return null;
-        return (
-          <section key={key} className="mt-14">
-            <h2 className="text-xl font-semibold">
-              {t(`categories.${labelKey}`)}
-            </h2>
-            <ol className="mt-5 space-y-4">
-              {items.map((pub) => (
-                <li
-                  key={pub.code}
-                  className="flex gap-4 border-b border-black/5 pb-4 dark:border-white/10"
-                >
-                  <span className="mt-0.5 shrink-0 font-mono text-xs text-neutral-400">
-                    {pub.code}
-                  </span>
-                  <div className="flex-1">
-                    <p className="leading-relaxed text-neutral-700 dark:text-neutral-300">
-                      <span className="font-medium text-neutral-900 dark:text-white">
-                        {pub.title}
-                      </span>
-                      {pub.venue ? `, ${pub.venue}` : ""}
-                      {pub.year ? ` (${pub.year})` : ""}
-                    </p>
-                    {pub.file && (
-                      <a
-                        href={pub.file}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="mt-1 inline-flex items-center gap-1 text-sm font-medium text-[var(--accent)] hover:underline"
-                      >
-                        {t("viewPdf")} ↗
-                      </a>
-                    )}
-                  </div>
-                </li>
-              ))}
-            </ol>
-          </section>
-        );
-      })}
+      {categoryOrderBeforeBooks.map(({ key, labelKey }) =>
+        renderPubSection(key, labelKey, t)
+      )}
+
+      <BooksSection />
+
+      {categoryOrderAfterBooks.map(({ key, labelKey }) =>
+        renderPubSection(key, labelKey, t)
+      )}
 
       <ProjectsSection />
       <CourseTables />

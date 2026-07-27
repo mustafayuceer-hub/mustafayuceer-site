@@ -142,25 +142,33 @@
       "code": "C1-01",
       "title": "Eser-Rey İhtilâfında Gumârî'nin Kevserî'ye Eleştirileri",
       "venue": "Fecr Yayınları, Ankara",
-      "year": 2024
+      "year": 2024,
+      "cover": "/publications/C1-01-cover.jpeg",
+      "file": "/publications/C1-01.pdf"
     },
     {
       "code": "C1-02",
       "title": "Osmanlı Manzum Hadis Edebiyatı",
       "venue": "TDV Yayınları, Ankara",
-      "year": 2021
+      "year": 2021,
+      "cover": "/publications/C1-02-cover.jpeg",
+      "file": "/publications/C1-02.pdf"
     },
     {
       "code": "C1-03",
       "title": "Kelâmla İlgili Rivâyetler: Ömer Nasûhî Bilmen'in Muvazzah İlm-i Kelâm Örneğinde",
       "venue": "Hikmetevi Yayınları, Konya",
-      "year": 2020
+      "year": 2020,
+      "cover": "/publications/C1-03-cover.jpeg",
+      "file": "/publications/C1-03.pdf"
     },
     {
       "code": "C1-04",
       "title": "Istılâhât-ı Fıkhıyye Kâmusu'nda Yer Alan Hadislerin Tahrîc ve Tenkîdi",
       "venue": "Ankara",
-      "year": 2017
+      "year": 2017,
+      "cover": "/publications/C1-04-cover.jpeg",
+      "file": "/publications/C1-04.pdf"
     }
   ],
   "bookChapters": [
