@@ -38,16 +38,16 @@ function Home() {
           </p>
           <div className="mt-10 flex flex-wrap gap-4">
             <Link
-              href="/about"
-              className="rounded-full bg-neutral-900 px-6 py-3 text-sm font-medium text-white transition hover:bg-neutral-700 dark:bg-white dark:text-neutral-900 dark:hover:bg-neutral-200"
-            >
-              {t("heroCta")}
-            </Link>
-            <Link
               href="/publications"
               className="rounded-full border border-black/15 px-6 py-3 text-sm font-medium transition hover:border-black/30 dark:border-white/20 dark:hover:border-white/40"
             >
               {t("heroCtaSecondary")}
+            </Link>
+            <Link
+              href="/about"
+              className="rounded-full bg-neutral-900 px-6 py-3 text-sm font-medium text-white transition hover:bg-neutral-700 dark:bg-white dark:text-neutral-900 dark:hover:bg-neutral-200"
+            >
+              {t("heroCta")}
             </Link>
           </div>
         </div>
