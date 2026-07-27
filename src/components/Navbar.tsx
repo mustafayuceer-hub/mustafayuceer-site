@@ -12,7 +12,6 @@ const links = [
   { href: "/publications", key: "publications" },
   { href: "/activities", key: "activities" },
   { href: "/blog", key: "blog" },
-  { href: "/akademik-profil", key: "academicProfile" },
   { href: "/ilmin-zekati", key: "ilminZekati" },
   { href: "/contact", key: "contact" },
 ] as const;
