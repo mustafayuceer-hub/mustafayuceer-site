@@ -1,0 +1,62 @@
+[
+  {
+    "name": "ORCID",
+    "url": "https://orcid.org/0000-0002-1769-1739",
+    "initials": "iD",
+    "color": "#A6CE39"
+  },
+  {
+    "name": "DergiPark",
+    "url": "https://dergipark.org.tr/tr/pub/@mustafayuceer",
+    "initials": "DP",
+    "color": "#0F4C81"
+  },
+  {
+    "name": "Scopus",
+    "url": "https://www.scopus.com/authid/detail.uri?authorId=58186512500",
+    "initials": "Sc",
+    "color": "#E9711C"
+  },
+  {
+    "name": "Web of Science",
+    "url": "https://www.webofscience.com/wos/author/record/AHB-4285-2022",
+    "initials": "WoS",
+    "color": "#C8102E"
+  },
+  {
+    "name": "Google Scholar",
+    "url": "https://scholar.google.com.tr/citations?user=v_CvB8cAAAAJ&hl=tr&oi=ao",
+    "initials": "GS",
+    "color": "#4285F4"
+  },
+  {
+    "name": "TR Dizin",
+    "url": "https://search.trdizin.gov.tr/tr/yazar/detay/863872/MUSTAFA-YÜCEER",
+    "initials": "TR",
+    "color": "#1B3A6B"
+  },
+  {
+    "name": "ResearchGate",
+    "url": "https://www.researchgate.net/profile/Mustafa-Yueceer",
+    "initials": "RG",
+    "color": "#00CCBB"
+  },
+  {
+    "name": "YÖK Akademik",
+    "url": "https://akademik.yok.gov.tr/AkademikArama/view/viewAuthor.jsp",
+    "initials": "YÖK",
+    "color": "#154734"
+  },
+  {
+    "name": "Selçuk Üniversitesi",
+    "url": "https://selcuk.edu.tr/birim/personeldetay/5342/mustafayuceer",
+    "initials": "SÜ",
+    "color": "#7A2E2E"
+  },
+  {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/in/mustafa-y%C3%BCceer-90293626a/",
+    "initials": "in",
+    "color": "#0A66C2"
+  }
+]

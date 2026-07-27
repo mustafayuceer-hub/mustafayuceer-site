@@ -39,7 +39,10 @@
         "text": "Innovative projects examining traditional texts through modern data science, computational analysis methods, artificial intelligence, and digital network interfaces."
       }
     ],
-    "introParagraph3": "Through this site, you can explore Assoc. Prof. Dr. Mustafa Yüceer's academic CV and projects; access his scholarly publication list of books, articles, and conference papers; and follow his current writings and reflections on scholarly issues and life."
+    "introParagraph3": "Through this site, you can explore Assoc. Prof. Dr. Mustafa Yüceer's academic CV and projects; access his scholarly publication list of books, articles, and conference papers; and follow his current writings and reflections on scholarly issues and life.",
+    "academicProfileHeading": "Academic Profile",
+    "academicProfileIntro": "You can reach his accounts on international academic databases and institutional profiles below.",
+    "viewProfile": "View Profile"
   },
   "about": {
     "heading": "About",

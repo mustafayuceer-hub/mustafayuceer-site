@@ -39,7 +39,10 @@
         "text": "Geleneksel metinlerin modern veri bilimi, hesaplamalı analiz yöntemleri, yapay zekâ ve dijital ağ arayüzleriyle incelenmesine yönelik yenilikçi projeler."
       }
     ],
-    "introParagraph3": "Bu site aracılığıyla Doç. Dr. Mustafa Yüceer'in akademik özgeçmişine ve projelerine göz atabilir; kitap, makale ve tebliğlerinden oluşan bilimsel yayın listesine ulaşabilir; ayrıca ilmi meseleleri ve hayatı yorumladığı aktüel yazılarını ve değerlendirmelerini takip edebilirsiniz."
+    "introParagraph3": "Bu site aracılığıyla Doç. Dr. Mustafa Yüceer'in akademik özgeçmişine ve projelerine göz atabilir; kitap, makale ve tebliğlerinden oluşan bilimsel yayın listesine ulaşabilir; ayrıca ilmi meseleleri ve hayatı yorumladığı aktüel yazılarını ve değerlendirmelerini takip edebilirsiniz.",
+    "academicProfileHeading": "Akademik Profil",
+    "academicProfileIntro": "Uluslararası akademik veri tabanlarındaki ve kurumsal profillerdeki hesaplarına aşağıdan ulaşabilirsiniz.",
+    "viewProfile": "Profili Görüntüle"
   },
   "about": {
     "heading": "Hakkında",
