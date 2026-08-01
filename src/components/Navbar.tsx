@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import Image from "next/image";
 import { useTranslations } from "next-intl";
 import { usePathname } from "@/i18n/navigation";
 import { Link } from "@/i18n/navigation";
@@ -25,8 +26,26 @@ export default function Navbar() {
   return (
     <header className="sticky top-0 z-50 border-b border-black/10 bg-white/80 backdrop-blur dark:border-white/10 dark:bg-neutral-950/80">
       <div className="mx-auto flex max-w-5xl items-center justify-between px-6 py-4">
-        <Link href="/" className="font-serif text-lg font-semibold tracking-tight">
-          {tSite("name")}
+        <Link href="/" className="flex items-center gap-2.5">
+          <Image
+            src="/logo/mark-light.png"
+            alt=""
+            width={576}
+            height={362}
+            className="h-8 w-auto dark:hidden"
+            priority
+          />
+          <Image
+            src="/logo/mark-dark.png"
+            alt=""
+            width={576}
+            height={362}
+            className="hidden h-8 w-auto dark:block"
+            priority
+          />
+          <span className="font-serif text-lg font-semibold tracking-tight">
+            {tSite("name")}
+          </span>
         </Link>
 
         <nav className="hidden items-center gap-6 md:flex">
