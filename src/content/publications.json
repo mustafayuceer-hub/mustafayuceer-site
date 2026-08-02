@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "code": "A12",
+      "title": "Mescid-i Aksâ'ya Kandil Yağı Gönderme Rivâyeti",
+      "venue": "HADITH",
+      "year": 2026,
+      "file": "/publications/A12.pdf"
+    },
+    {
       "code": "A01",
       "title": "Bulanık Mantık ve Yapay Zekâ Işığında Hadis Usûlünü Yeniden Düşünmek",
       "venue": "Hitit İlahiyat Dergisi",
